@@ -15,11 +15,7 @@ The model used is "EfficientDet D2 768x768" downloaded from [TensorFlow 2 Detect
 
 ## Example
 
-#### Input Image
 
-![image](https://user-images.githubusercontent.com/36189572/149323416-30cdd1e9-84fe-4c76-a4aa-3f6c7ff6f785.png)
+![image](https://github.com/AsmaaSobhyy/People_counter/blob/main/Assets/0.gif)
 
-#### Detected Counts
-
-![image](https://user-images.githubusercontent.com/36189572/149323416-30cdd1e9-84fe-4c76-a4aa-3f6c7ff6f785.png)
 
