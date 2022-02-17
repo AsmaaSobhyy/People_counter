@@ -1,22 +1,9 @@
 
 import os 
-# import pathlib
-
-# import matplotlib
-# matplotlib.use('TkAgg')
-# import matplotlib.pyplot as plt
-
-# import io
-# import scipy.misc
-# import numpy as np
-# from six import BytesIO
-# from PIL import Image, ImageDraw, ImageFont
 
 import tensorflow as tf
 
-# from object_detection.utils import label_map_util
 from object_detection.utils import config_util
-# from object_detection.utils import visualization_utils as viz_utils
 from object_detection.builders import model_builder
 
 class DetectorAPI:
@@ -56,21 +43,6 @@ class DetectorAPI:
 
 
 
-
-# def get_keypoint_tuples(eval_config):
-#   """Return a tuple list of keypoint edges from the eval config.
-  
-#   Args:
-#     eval_config: an eval config containing the keypoint edges
-  
-#   Returns:
-#     a list of edge tuples, each in the format (start, end)
-#   """
-#   tuple_list = []
-#   kp_list = eval_config.keypoint_edge
-#   for edge in kp_list:
-#     tuple_list.append((edge.start, edge.end))
-#   return tuple_list
 
 
 
