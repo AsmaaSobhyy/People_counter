@@ -1,5 +1,5 @@
 # People_counter
-An aplication that counts people within some region of interests.
+An aplication that counts people within some regions of interest.
 
 
 ## Model
